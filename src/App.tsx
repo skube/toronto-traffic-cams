@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import { Header } from "./components/Header";
 import { Controls } from "./components/Controls";
 import { CameraGrid } from "./components/CameraGrid";
@@ -46,6 +47,7 @@ function App() {
         onClose={() => setSelectedCamera(null)}
         timestamp={timestamp}
       />
+      <Analytics />
     </div>
   );
 }
