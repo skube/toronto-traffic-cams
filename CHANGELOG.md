@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/skube/toronto-traffic-cams/compare/toronto-traffic-cams-v1.0.0...toronto-traffic-cams-v1.1.0) (2026-01-15)
+
+
+### Features
+
+* add navigation to camera modal and mobile-specific styles ([#4](https://github.com/skube/toronto-traffic-cams/issues/4)) ([e217e22](https://github.com/skube/toronto-traffic-cams/commit/e217e22c092a236952cde50f8d94087e28fb497b))
+
 ## 1.0.0 (2025-12-14)
 
 
